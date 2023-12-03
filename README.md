@@ -15,6 +15,7 @@
 | Rust | Graphics | [mandelbrot-rust](https://github.com/vhiribarren/mandelbrot-rust) | Drawing of Mandelbrot set |
 | Java | Mobile |[beacon-simulator-android](https://github.com/vhiribarren/beacon-simulator-android) | Bluetooth Beacon Simulator for Android |
 | Python | Parsing |[sphinxcontrib-itemlist](https://github.com/vhiribarren/sphinxcontrib-itemlist) | Plugin for Sphinx to display list of items |
+| JavaScript | Graphics |[sketch-book](https://github.com/vhiribarren/sketch-book) | Sketch book of various graphical effects with shaders |
 | JavaScript | Game |[vscode-tetromino](https://github.com/vhiribarren/vscode-tetromino) | Tetromino plugin for VSCode |
 | JavaScript | Game |[atom-tetromino](https://github.com/vhiribarren/atom-tetromino) | Tetromino plugin for Atom |
 | JavaScript | Mobile |[freebox-zapper-webapp](https://github.com/vhiribarren/freebox-zapper-webapp) | Remote control for the FreeBox in Cordova |
