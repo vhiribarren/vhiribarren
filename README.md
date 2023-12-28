@@ -57,6 +57,7 @@
 
 | Lang | Category | Repository | Status | Description |
 | --- | --- | --- | --- | --- |
+| Python | App | [qrmeet-aws](https://github.com/vhiribarren/qrmeet-aws) | Unfinished | QRMeet, social game where we have to scan other's QR code to find a peer person |
 | Go | Parsing | [llvm-tuto-kaleidoscope-golang](https://github.com/vhiribarren/llvm-tuto-kaleidoscope-golang) | Unfinished | LLVM Kaleidoscope tutorial in Go |
 | JavaScript | Graphics | [string-art-web](https://github.com/vhiribarren/string-art-web) | Unfinished | Draw curves using their tangents |
 | Java | Mobile | [wifi-status-android](https://github.com/vhiribarren/wifi-status-android) | Deprecated | Display the status of the WiFi with very low binary size |
