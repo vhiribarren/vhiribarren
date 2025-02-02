@@ -14,7 +14,9 @@
 | Rust | Graphics | [game-of-life-rust-bevy](https://github.com/vhiribarren/game-of-life-rust-bevy) | Game of Life simulation with Bevy |
 | Rust | Graphics | [raytracer-rust](https://github.com/vhiribarren/raytracer-rust) | Ray-tracer in Rust |
 | Rust | Graphics | [mandelbrot-rust](https://github.com/vhiribarren/mandelbrot-rust) | Drawing of Mandelbrot set |
+| Rust | Graphics | [wgpu-lite-wrapper](https://github.com/vhiribarren/wgpu-lite-wrapper) | Lite API and tests with wgpu |
 | Python | Parsing |[sphinxcontrib-itemlist](https://github.com/vhiribarren/sphinxcontrib-itemlist) | Plugin for Sphinx to display list of items |
+| JavaScript | Graphics |[vector-field-effects-js](https://github.com/vhiribarren/vector-field-effects-js) | Playing with webgl and particles |
 | JavaScript | Graphics |[sketch-book](https://github.com/vhiribarren/sketch-book) | Sketch book of various graphical effects with shaders |
 | JavaScript | Game |[vscode-tetromino](https://github.com/vhiribarren/vscode-tetromino) | Tetromino plugin for VSCode |
 | JavaScript | Game |[atom-tetromino](https://github.com/vhiribarren/atom-tetromino) | Tetromino plugin for Atom |
@@ -42,7 +44,6 @@
 | Rust | [bevy-sandbox](https://github.com/vhiribarren/bevy-sandbox) | Tests with Bevy |
 | Rust | [nannou-sandbox](https://github.com/vhiribarren/nannou-sandbox) | Tests with Nannou |
 | Rust | [microbit-rust-sandbox](https://github.com/vhiribarren/microbit-rust-sandbox) | Tests with a Microbit BBC in Rust |
-| Rust | [wgpu-sandbox](https://github.com/vhiribarren/wgpu-sandbox) | Tests with WGPU and Rust |
 | JavaScript | [threejs-sandbox](https://github.com/vhiribarren/threejs-sandbox) | Tests with ThreeJS |
 | JavaScript | [webrtc-sandbox](https://github.com/vhiribarren/webrtc-sandbox) | Tests with WebRTC |
 | GLSL | [webgl2-sandbox](https://github.com/vhiribarren/webgl2-sandbox) | Tests with WebGL |
