@@ -14,7 +14,7 @@
 | Rust | Graphics | [game-of-life-rust-bevy](https://github.com/vhiribarren/game-of-life-rust-bevy) | Game of Life simulation with Bevy |
 | Rust | Graphics | [raytracer-rust](https://github.com/vhiribarren/raytracer-rust) | Ray-tracer in Rust |
 | Rust | Graphics | [mandelbrot-rust](https://github.com/vhiribarren/mandelbrot-rust) | Drawing of Mandelbrot set |
-| Rust | Graphics | [wgpu-lite-wrapper](https://github.com/vhiribarren/wgpu-lite-wrapper) | Lite API and tests with wgpu |
+| Rust | Graphics | [wgpu-igniter](https://github.com/vhiribarren/wgpu-igniter) | Lite API over wgpu |
 | Python | Parsing |[sphinxcontrib-itemlist](https://github.com/vhiribarren/sphinxcontrib-itemlist) | Plugin for Sphinx to display list of items |
 | JavaScript | Graphics |[vector-field-effects-js](https://github.com/vhiribarren/vector-field-effects-js) | Playing with webgl and particles |
 | JavaScript | Graphics |[sketch-book](https://github.com/vhiribarren/sketch-book) | Sketch book of various graphical effects with shaders |
