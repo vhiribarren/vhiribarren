@@ -23,6 +23,7 @@
 | JavaScript | Mobile |[freebox-zapper-webapp](https://github.com/vhiribarren/freebox-zapper-webapp) | Remote control for the FreeBox in Cordova |
 | C++ | Embedded | [traffic-lights-arduino](https://github.com/vhiribarren/traffic-lights-arduino) | Simulation of a traffic lights with Arduino |
 | Swift | Bluetooth |[blesignal-cli-macos](https://github.com/vhiribarren/blesignal-cli-macos) | To display Bluetooth Low Energy signals on MacOS |
+| HTML/CSS/JS | Website |[cv](https://github.com/vhiribarren/cv) | My curriculum vitae |
 
 #### Other
 
