@@ -16,6 +16,7 @@
 | Rust | Graphics | [mandelbrot-rust](https://github.com/vhiribarren/mandelbrot-rust) | Drawing of Mandelbrot set |
 | Rust | Graphics | [wgpu-igniter](https://github.com/vhiribarren/wgpu-igniter) | Lite API over wgpu |
 | Python | Parsing |[sphinxcontrib-itemlist](https://github.com/vhiribarren/sphinxcontrib-itemlist) | Plugin for Sphinx to display list of items |
+| JavaScript | Serious Game | [qrmeet](https://github.com/vhiribarren/qrmeet) | QRMeet, social game where we have to scan other's QR code to gain points |
 | JavaScript | Utility |[conclave](https://github.com/vhiribarren/conclave) | On-line planning poker |
 | JavaScript | Graphics |[vector-field-effects-js](https://github.com/vhiribarren/vector-field-effects-js) | Playing with webgl and particles |
 | JavaScript | Graphics |[sketch-book](https://github.com/vhiribarren/sketch-book) | Sketch book of various graphical effects with shaders |
@@ -62,7 +63,6 @@
 
 | Lang | Category | Repository | Status | Description |
 | --- | --- | --- | --- | --- |
-| Python | App | [qrmeet-aws](https://github.com/vhiribarren/qrmeet-aws) | Unfinished | QRMeet, social game where we have to scan other's QR code to find a peer person |
 | Go | Parsing | [llvm-tuto-kaleidoscope-golang](https://github.com/vhiribarren/llvm-tuto-kaleidoscope-golang) | Unfinished | LLVM Kaleidoscope tutorial in Go |
 | JavaScript | Graphics | [string-art-web](https://github.com/vhiribarren/string-art-web) | Unfinished | Draw curves using their tangents |
 | Java | Mobile | [wifi-status-android](https://github.com/vhiribarren/wifi-status-android) | Deprecated | Display the status of the WiFi with very low binary size |
